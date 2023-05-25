@@ -1,0 +1,48 @@
+
+*{
+    background-color: rgb(54, 54, 54);
+}
+header {
+    display: flex;
+    color: blueviolet;
+    font-family: "Segoe UI";
+    justify-content: center;
+}
+
+.container {
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+}
+
+.imgEndgame {
+    height: 200px;
+    width: 400px;
+}
+
+.titulos{
+    color: rgb(226, 43, 150);
+    font-family: "Courier New", monospace;
+}
+
+.generalData{
+    color: rgb(151, 209, 236);
+    font-family: "Homer Simpson UI";
+}
+
+span {
+    color: rgb(231, 223, 101);
+
+}
+
+u{
+    color: red;
+    font-size: large;
+}
+
+b{
+    color: rgb(85, 226, 196);
+    background-color: black;
+}
